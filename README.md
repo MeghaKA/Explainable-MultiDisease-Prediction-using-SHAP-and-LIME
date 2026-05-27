@@ -1,10 +1,10 @@
-### 🧠 Explainable Multi-Disease Prediction using Machine Learning, SHAP and LIME
+## 🧠 Explainable Multi-Disease Prediction using Machine Learning, SHAP and LIME
 
 👩‍💻 Author: Megha K A
 
 ⸻
 
-## 📌 Project Overview
+# 📌 Project Overview
 
 This project presents an Explainable Artificial Intelligence (XAI) framework for multi-disease prediction using Machine Learning integrated with SHAP and LIME interpretability techniques.
 
@@ -24,7 +24,7 @@ By integrating Explainable AI techniques, the project demonstrates how Machine L
 
 ⸻
 
-## 🎯 Objectives
+# 🎯 Objectives
 
 * Develop a multi-disease healthcare prediction framework
 * Predict Diabetes and Chronic Kidney Disease using Machine Learning
@@ -36,7 +36,7 @@ By integrating Explainable AI techniques, the project demonstrates how Machine L
 
 ⸻
 
-## 🗂️ Datasets Used
+# 🗂️ Datasets Used
 
 # 1️⃣ Diabetes Dataset
 
@@ -67,7 +67,7 @@ File
 
 * kidney_disease.csv
 
-## Important Clinical Features
+# Important Clinical Features
 
 * Hemoglobin
 * Specific Gravity
@@ -80,7 +80,7 @@ File
 
 ⸻
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 * Python
 * Pandas
@@ -96,7 +96,7 @@ File
 
 ⸻
 
-## ⚙️ Machine Learning Workflow
+# ⚙️ Machine Learning Workflow
 
 🔹 Data Preprocessing
 
@@ -125,7 +125,7 @@ File
 
 ⸻
 
-## 📊 Model Evaluation
+# 📊 Model Evaluation
 
 The models were evaluated using:
 
@@ -139,13 +139,13 @@ The models were evaluated using:
 
 ⸻
 
-## 🔍 Explainable AI Analysis
+# 🔍 Explainable AI Analysis
 
 This project applies Explainable AI methods to interpret disease prediction outcomes.
 
 ⸻
 
-## 🌐 SHAP Analysis
+# 🌐 SHAP Analysis
 
 SHAP was used for:
 
@@ -156,7 +156,7 @@ SHAP was used for:
 
 ⸻
 
-## 🧩 LIME Analysis
+# 🧩 LIME Analysis
 
 LIME was used for:
 
@@ -166,7 +166,7 @@ LIME was used for:
 
 ⸻
 
-## 📈 Visualizations
+# 📈 Visualizations
 
 🔹 SHAP Summary Plot
 
@@ -236,7 +236,7 @@ Explainable-Healthcare-AI-MultiDisease/
 
 ⸻
 
-## 🚀 Future Improvements
+# 🚀 Future Improvements
 
 * Deep Learning-based disease prediction
 * Real-time healthcare analytics
@@ -248,7 +248,7 @@ Explainable-Healthcare-AI-MultiDisease/
 
 ⸻
 
-## 📚 Research Significance
+# 📚 Research Significance
 
 This project demonstrates how Explainable AI can improve transparency and interpretability in healthcare Machine Learning systems.
 
@@ -263,7 +263,7 @@ The project highlights the importance of combining:
 
 ⸻
 
-## 👩‍💻 Author
+#  👩‍💻 Author
 
 Megha K A
 

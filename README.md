@@ -42,10 +42,19 @@ By integrating Explainable AI techniques, the project demonstrates how Machine L
 
  1️⃣ Diabetes Dataset
 
-Files
+Training Dataset
 
-* diabetes-train.csv
-* diabetes-test.csv
+* File: diabetes-train.csv
+* Records: 70,692
+* Features: 22
+* Balanced dataset
+
+Testing Dataset
+
+* File: diabetes-test.csv
+* Records: 253,680
+* Features: 22
+* Real-world imbalanced dataset
 
 Features Include
 
@@ -68,6 +77,10 @@ Features Include
 File
 
 * kidney_disease.csv
+* Records: 400
+* Features: 25
+* Source: UCI Machine Learning Repository
+
 
  Important Clinical Features
 

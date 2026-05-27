@@ -216,7 +216,9 @@ The confusion matrix visualizes classification performance and prediction accura
 
 🔹 Feature Importance Plot
 
+
 ![Feature Importance](feature_importance.png)
+
 
 Feature importance analysis identifies the most influential healthcare variables contributing to disease prediction.
 
@@ -224,7 +226,9 @@ Feature importance analysis identifies the most influential healthcare variables
 
 🔹 Lime Explanation Plot
 
+
 ![LIME Explanation](lime_explanation.png)
+
 
 LIME (Local Interpretable Model-Agnostic Explanations) was applied to generate local patient-level prediction explanations.
 

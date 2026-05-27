@@ -1,3 +1,10 @@
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Explainable AI](https://img.shields.io/badge/XAI-SHAP-orange)
+![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-red)
+![LIME](https://img.shields.io/badge/XAI-LIME-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
 # 🧠 Explainable Multi-Disease Prediction using Machine Learning, SHAP and LIME

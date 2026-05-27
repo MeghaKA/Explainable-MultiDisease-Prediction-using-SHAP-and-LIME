@@ -1,4 +1,6 @@
-## 🧠 Explainable Multi-Disease Prediction using Machine Learning, SHAP and LIME
+
+
+# 🧠 Explainable Multi-Disease Prediction using Machine Learning, SHAP and LIME
 
 👩‍💻 Author: Megha K A
 
@@ -38,7 +40,7 @@ By integrating Explainable AI techniques, the project demonstrates how Machine L
 
 # 🗂️ Datasets Used
 
-# 1️⃣ Diabetes Dataset
+ 1️⃣ Diabetes Dataset
 
 Files
 
@@ -61,13 +63,13 @@ Features Include
 
 ⸻
 
-# 2️⃣ Chronic Kidney Disease Dataset
+ 2️⃣ Chronic Kidney Disease Dataset
 
 File
 
 * kidney_disease.csv
 
-# Important Clinical Features
+ Important Clinical Features
 
 * Hemoglobin
 * Specific Gravity

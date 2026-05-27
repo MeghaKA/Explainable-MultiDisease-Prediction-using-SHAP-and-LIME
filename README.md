@@ -222,6 +222,15 @@ Feature importance analysis identifies the most influential healthcare variables
 
 ⸻
 
+🔹 Lime Explanation Plot
+
+![LIME Explanation](lime_explanation.png)
+
+LIME (Local Interpretable Model-Agnostic Explanations) was applied to generate local patient-level prediction explanations.
+
+⸻
+
+
 ## ✨ Key Features of the Project
 
 * Multi-disease healthcare prediction

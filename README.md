@@ -285,8 +285,26 @@ The project highlights the importance of combining:
 
 ⸻
 
-#  👩‍💻 Author
+# 👩‍💻 Author
 
 Megha K A
 
 Machine Learning | Explainable AI | Healthcare AI | Clinical Decision Suppo
+
+# 🍴 Fork This Repository
+
+If you find this project useful for healthcare AI, Explainable AI research, or machine learning learning purposes, feel free to fork and build upon this repository.
+
+Steps to Fork
+
+1. Click the Fork button at the top-right corner of this repository.
+2. Clone your forked repository:
+
+git clone https://github.com/your-username/Explainable-Healthcare-AI-MultiDisease.git
+
+3. Open the notebook using Google Colab or Jupyter Notebook.
+4. Install required dependencies:
+
+pip install -r requirements.txt
+
+5. Run the notebook cells sequentially to reproduce the multi-disease prediction and explainability workflow.
